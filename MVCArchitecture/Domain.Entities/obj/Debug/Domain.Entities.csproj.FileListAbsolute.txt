@@ -1,0 +1,5 @@
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Domain.Entities\bin\Debug\Domain.Entities.dll
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Domain.Entities\bin\Debug\Domain.Entities.pdb
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Domain.Entities\obj\Debug\Domain.Entities.csprojResolveAssemblyReference.cache
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Domain.Entities\obj\Debug\Domain.Entities.dll
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Domain.Entities\obj\Debug\Domain.Entities.pdb

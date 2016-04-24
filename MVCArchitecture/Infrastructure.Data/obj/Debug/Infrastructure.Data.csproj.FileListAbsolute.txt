@@ -1,0 +1,14 @@
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Infrastructure.Data\bin\Debug\Infrastructure.Data.dll.config
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Infrastructure.Data\bin\Debug\Infrastructure.Data.dll
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Infrastructure.Data\bin\Debug\Infrastructure.Data.pdb
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Infrastructure.Data\bin\Debug\EntityFramework.dll
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Infrastructure.Data\bin\Debug\EntityFramework.xml
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Infrastructure.Data\obj\Debug\Infrastructure.Data.csprojResolveAssemblyReference.cache
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Infrastructure.Data\obj\Debug\Infrastructure.Data.dll
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Infrastructure.Data\obj\Debug\Infrastructure.Data.pdb
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Infrastructure.Data\bin\Debug\Domain.Entities.dll
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Infrastructure.Data\bin\Debug\Domain.Entities.pdb
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Infrastructure.Data\bin\Debug\Domain.Interfaces.dll
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Infrastructure.Data\bin\Debug\Domain.Interfaces.pdb

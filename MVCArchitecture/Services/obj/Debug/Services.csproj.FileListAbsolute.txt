@@ -1,0 +1,11 @@
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Services\bin\Debug\Services.dll
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Services\bin\Debug\Services.pdb
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Services\obj\Debug\Services.dll
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Services\obj\Debug\Services.pdb
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Services\bin\Debug\Domain.Entities.dll
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Services\bin\Debug\Services.Interfaces.dll
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Services\bin\Debug\Domain.Entities.pdb
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Services\bin\Debug\Services.Interfaces.pdb
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Services\bin\Debug\Domain.Interfaces.dll
+c:\users\bhs\documents\visual studio 2015\Projects\MVCArchitecture\Services\bin\Debug\Domain.Interfaces.pdb
